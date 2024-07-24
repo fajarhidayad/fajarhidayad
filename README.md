@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-Go-blue?style=for-the-badge&logo=go&logoColor=blue&labelColor=282828">
   <img src="https://img.shields.io/badge/-Express-white?style=for-the-badge&logo=express&logoColor=white&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white&labelColor=282828">
 </div>
 </p>
 
