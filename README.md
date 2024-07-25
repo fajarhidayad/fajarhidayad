@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋, I'm Fajar Hidayad</h1>
 <h3 align="center">Full Stack Dev</h3>
 <h4 align="center">About me</h4>
-<p align="center">I'm a fullstack developer highly experienced in TypeScript - React, React Native, NodeJS & NextJS in the frontend, for the backend I usually prefer Go-Fiber and Express JS.</p>
+<p align="center">I'm a fullstack developer highly experienced in TypeScript - React, React Native, NodeJS & NextJS in the frontend, for the backend I usually prefer NestJs, Express JS or Laravel.</p>
 
 <p>
 <div align="center">
