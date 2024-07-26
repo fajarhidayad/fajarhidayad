@@ -6,6 +6,7 @@
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Vue-green?style=for-the-badge&logo=vue.js&logoColor=emerald&labelColor=282828">
   <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=282828">
   <img src="https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-Go-blue?style=for-the-badge&logo=go&logoColor=blue&labelColor=282828">
